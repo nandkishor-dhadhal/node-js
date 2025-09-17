@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.npm/
+.eslintcache
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Optional REPL history
+.node_repl_history
+
+# Build/Distribution directories
+dist/
+build/
